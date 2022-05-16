@@ -14,6 +14,10 @@ page_sections:
   - link: Home
     link_text: home
   logo: ''
+- template: detail-content
+  block: text-1
+  headline: Detailed Content Heading
+  content: "<p>Content goes here</p>"
 menu:
   main:
     weight: 3

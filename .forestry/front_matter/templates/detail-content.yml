@@ -18,5 +18,4 @@ fields:
     schema:
       format: html-blocks
 pages:
-- about.md
 - my-detailed-content.md

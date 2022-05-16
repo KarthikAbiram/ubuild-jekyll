@@ -18,5 +18,4 @@ fields:
     schema:
       format: html-blocks
 pages:
-- _posts/my-first-post.md
 - my-detailed-content.md

@@ -1,6 +1,7 @@
 ---
 main:
-- url: "/d"
+- identifier: new
+  url: "/d"
   weight: 2
   title: New Name
 - identifier: home

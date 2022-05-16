@@ -1,8 +1,5 @@
 ---
 main:
-- weight: 2
-  url: "/detailed-content"
-  title: detailed-content
 - identifier: home
   url: "/"
   weight: 1

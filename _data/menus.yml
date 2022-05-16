@@ -1,5 +1,8 @@
 ---
 main:
+- url: "/d"
+  weight: 2
+  title: New Name
 - identifier: home
   url: "/"
   weight: 1

@@ -80,5 +80,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: may-16
+  heading: My May 16 Heading
+  description: My May 16 Desc
+  image: ''
 
 ---

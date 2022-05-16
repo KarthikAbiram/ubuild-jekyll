@@ -1,10 +1,10 @@
 ---
-block: header-1
+block: feature-1
 headline: About
 content: "<p>About Content</p>"
-title: ''
-layout: ''
-date: ''
+title: About Title
+layout: blocks
+date: 2022-05-18 18:30:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
@@ -22,6 +22,7 @@ navigation:
 - link_text: home
   link: home
 logo: ''
+media_alignment: Right
 menu:
   main:
     weight: 3

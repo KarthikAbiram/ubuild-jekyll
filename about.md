@@ -1,10 +1,10 @@
 ---
-block: text-1
+block: header-1
 headline: About
 content: "<p>About Content</p>"
 title: ''
 layout: ''
-date: 
+date: ''
 page_sections:
 - template: navigation-header
   block: header-1
@@ -18,6 +18,10 @@ page_sections:
   block: text-1
   headline: Detailed Content Heading
   content: "<p>Content goes here</p>"
+navigation:
+- link_text: home
+  link: home
+logo: ''
 menu:
   main:
     weight: 3
@@ -25,3 +29,5 @@ menu:
 
 ---
 About Right Space
+
+Yeah!
